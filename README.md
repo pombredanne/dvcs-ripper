@@ -1,3 +1,7 @@
+ [![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#dvcs-ripper)
+ [![GitHub stars](https://img.shields.io/github/stars/kost/dvcs-ripper.svg)](https://github.com/kost/dvcs-ripper/stargazers)
+ [![GitHub license](https://img.shields.io/github/license/kost/dvcs-ripper.svg)](https://github.com/kost/dvcs-ripper/blob/master/LICENSE)
+
 dvcs-ripper
 ===========
 
@@ -161,7 +165,7 @@ actually were implemented by request
 
 ### Done
 - [x] Support for brute forcing pack names 
-- [x] Inteligent guessing of packed refs
+- [x] Intelligent guessing of packed refs
 - [x] Support for objects/info/packs from https://www.kernel.org/pub/software/scm/git/docs/gitrepository-layout.html
 - [x] Recognize 404 pages which return 200 
 - [x] Introduce ignore SSL/TLS verification in SVN/CVS
